@@ -1,4 +1,5 @@
-### 👋 Hi, I'm Prabhu
+---
+### 👾 Hi, I'm Prabhu
 
 Solutions Architect at AWS with 12 years in networking, security, and cloud infrastructure. I build prototypes and tools to solve real problems, then open-source the interesting parts.
 
@@ -12,13 +13,7 @@ Solutions Architect at AWS with 12 years in networking, security, and cloud infr
 - MS in Cyber Forensics & Information Security
 
 **Connect:** [LinkedIn](https://www.linkedin.com/in/prabhugr/)
-
 ---
-
-Your repos show three clear areas: **GenAI on AWS** (web-grounded-data-lookup), **cloud education** (cloud-computing-mindmap, ML Specialty guide), and **on-device AI** (wispr). I grouped around those instead of listing repo names.
-
-Want any changes?
-
 <!---
 prabhugr/prabhugr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
